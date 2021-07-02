@@ -1,0 +1,16 @@
+img{
+    width: 300px;
+
+}
+.one{
+    width: 100px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+h2{
+    position: absolute;
+    top: 480px;
+    left: 10px;
+    color: white;
+}

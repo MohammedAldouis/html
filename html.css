@@ -1,0 +1,9 @@
+
+ul li a {
+    text-decoration: none;
+}
+  
+ul li {
+    list-style: none;
+    display: inline;
+}
